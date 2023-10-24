@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Color Changer</string>
+    <string name="color_help_message">red, green, blue, hex-code</string>
+    <string name="launch_help_message">Change color!</string>
+</resources>
